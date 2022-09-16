@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/slike">
+        <file>light1.PNG</file>
+        <file>light2.PNG</file>
+    </qresource>
+</RCC>
